@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Payment" />
+  <setParameter name="IIS Web Application Pool Name" value="Payment" />
+  <setParameter name="IisVirtualDirectoryPhysicalPath" value="d:\y\documents\visual studio 2015\Projects\PaymentService\2-PaymentService_deploy" />
+</parameters>
